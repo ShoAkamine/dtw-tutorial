@@ -1,4 +1,4 @@
-# Tutorial on using dynamic time warping (DTW) for quantifying the degree of gesture form similarity
+# Tutorial on using dynamic time warping (DTW) for quantifying gesture form similarity
 This tutorial aims to help students and researchers working on gestures and sign languages learn how to use DTW to quantify the degree of gesture (sign) form (dis)similarity. The following topics are covered:
 
 1. Understanding the characteristics of DTW (`dtw_example.ipynb`)
