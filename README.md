@@ -13,7 +13,8 @@ Before running the script, you need to have the following installed:
 
 
 ## Preparation
-To run the Python notebooks, please complete the steps below:
+To run the Python notebooks, please complete the steps below. Note that the preparation needs to be done only once. Afterwards, you can run the scripts immediately.
+
 
 1. Download the repository. You can do so in two different ways:
     - Option 1: clone the repository
@@ -54,6 +55,3 @@ To run the Python notebooks, please complete the steps below:
 5. Download MediaPipe time series data from [this OSF repository](https://osf.io/4bqys/files).
 
 6. Place the time series data under `data\mediapipe\` in the corresponding folders
-
-The preparation needs to be done only once. Afterwards, you can run the scripts immediately.
-
