@@ -48,11 +48,12 @@ To run the Python notebooks, please complete the steps below:
     1. Reinstall the ffmpeg package: `conda install -c conda-forge ffmpeg`
 
 3. Open the `dtw.ipynb` or `dtw_example.ipynb` file (I strongly encourage everyone to go through `dtw_example.ipynb` first to understand the properties of DTW)
-    1. On VS Code, click "select kernel" on the top right and select "Python Environments..." --> "dtw"
 
-4. Download MediaPipe time series data from [this OSF repository](https://osf.io/4bqys/files).
+4. On VS Code, click "select kernel" on the top right and select "Python Environments..." --> "dtw"
 
-5. Place the time series data under `data\mediapipe\` in the corresponding folders
+5. Download MediaPipe time series data from [this OSF repository](https://osf.io/4bqys/files).
+
+6. Place the time series data under `data\mediapipe\` in the corresponding folders
 
 The preparation needs to be done only once. Afterwards, you can run the scripts immediately.
 
