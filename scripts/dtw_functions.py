@@ -104,13 +104,13 @@ def dtw_distance_dependent(MT1, MT2, MT_B_flipped, reference, distance_array, ha
     keypoint_middle_left = keypoints[6:9]
     keypoint_ring_left = keypoints[9:12]
     keypoint_pinky_left = keypoints[12:15]
-    keypoint_wrist_left = keypoints[15:17]
-    keypoint_thumb_right = keypoints[17:20]
-    keypoint_index_right = keypoints[20:23]
-    keypoint_middle_right = keypoints[23:26]
-    keypoint_ring_right = keypoints[26:29]
-    keypoint_pinky_right = keypoints[29:32]
-    keypoint_wrist_right = keypoints[32:34]
+    keypoint_wrist_left = keypoints[15:18]
+    keypoint_thumb_right = keypoints[18:21]
+    keypoint_index_right = keypoints[21:24]
+    keypoint_middle_right = keypoints[24:27]
+    keypoint_ring_right = keypoints[27:30]
+    keypoint_pinky_right = keypoints[30:33]
+    keypoint_wrist_right = keypoints[33:36]
 
     if hands_dtw == "both" or hands_dtw == "left" in hands_dtw:
         ### xyz
